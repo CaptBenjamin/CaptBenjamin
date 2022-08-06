@@ -1,6 +1,7 @@
+### 你好👋
 ### Hi there 👋
 
-![Visitor Count](https://profile-counter.glitch.me/CaptBenjamin/count.svg)
+这是我的个人页面第 ![Visitor Count](https://profile-counter.glitch.me/CaptBenjamin/count.svg) 次被访问。
 
 **CaptBenjamin/CaptBenjamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

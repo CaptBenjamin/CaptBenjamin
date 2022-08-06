@@ -54,6 +54,40 @@
 <br/>  
 
 
+## Workspace Specs  
+<div align="center">
+<a href="https://github.com/CaptBenjamin/CaptBenjamin/edit/main/README.md#workspace-specs" target="_blank">
+<img src=https://img.shields.io/badge/intel-core_i9_10900kf-0071C5?style=for-the-badge&logo=intel&logoColor=white />
+</a><a href="https://github.com/CaptBenjamin/CaptBenjamin/edit/main/README.md#workspace-specs" target="_blank">
+<img src=https://img.shields.io/badge/windows-11-0078d4?style=for-the-badge&logo=microsoft&logoColor=white />
+</a><a href="https://github.com/CaptBenjamin/CaptBenjamin/edit/main/README.md#workspace-specs" target="_blank">
+<img src=https://img.shields.io/badge/nvidia-rtx_2080_super-76B900?style=for-the-badge&logo=nvidia&logoColor=white />
+
+</div> 
+
+<br/>  
+
+
+## IDE  
+<div align="center">
+<a href="https://github.com/CaptBenjamin/CaptBenjamin/edit/main/README.md#ide" target="_blank">
+<img src=https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white />
+</a>
+<a href="https://github.com/CaptBenjamin/CaptBenjamin/edit/main/README.md#ide" target="_blank">
+<img src=https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white />
+</a>
+<a href="https://github.com/CaptBenjamin/CaptBenjamin/edit/main/README.md#ide" target="_blank">
+<img src=https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white />
+</a>
+<a href="https://github.com/CaptBenjamin/CaptBenjamin/edit/main/README.md#ide" target="_blank">
+<img src=https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400 />
+</a>
+
+</div> 
+
+<br/>  
+
+
 ## My Skill Set  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" />  
@@ -84,18 +118,38 @@
 
 <br/>  
 
+<br/>  
+
 
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/CaptBenjamin" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-CaptBenjaminLee-24292E?style=for-the-badge&logo=github&logoColor=white />
 </a>
 <a href="https://twitter.com/CaptBenjaminLee" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/twitter-CaptBenjaminLee-00ACEE?style=for-the-badge&logo=twitter&logoColor=white />
 </a>
 <a href="https://instagram.com/CaptBenjaminLee" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-CaptB-FEC000?style=for-the-badge&logo=instagram&logoColor=white />
 </a>  
+<a href="https://steamcommunity.com/id/LYKNS/" target="_blank">
+<img src=https://img.shields.io/badge/steam-CaptB-075A8E?style=for-the-badge&logo=steam&logoColor=white />
+</a> 
+<a href="https://www.epicgames.com/" target="_blank">
+<img src=https://img.shields.io/badge/EPIC-CaptBenjaminLee-000000?style=for-the-badge&logo=epicgames&logoColor=white />
+</a> 
+<a href="https://github.com/CaptBenjamin/CaptBenjamin/edit/main/README.md#connect-with-me" target="_blank">
+<img src=https://img.shields.io/badge/Xbox-CaptBenjaminLee-107C10?style=for-the-badge&logo=xbox&logoColor=white />
+</a> 
+<a href="https://www.twitch.tv/captbenjaminlee" target="_blank">
+<img src=https://img.shields.io/badge/twitch-CaptBenjaminLee-9147FF?style=for-the-badge&logo=twitch&logoColor=white />
+</a> 
+<a href="https://github.com/CaptBenjamin/CaptBenjamin/edit/main/README.md#connect-with-me">
+<img src=https://img.shields.io/badge/discord-CaptB-5865F2?style=for-the-badge&logo=discord&logoColor=white />
+</a> 
+<a href="https://www.reddit.com/user/CaptBenjaminLee/">
+<img src=https://img.shields.io/badge/reddit-CaptBenjaminLee-FF4500?style=for-the-badge&logo=reddit&logoColor=white />
+</a> 
 </div>  
   
 
@@ -118,4 +172,4 @@
 <br />
 
 ----
-<div align="center">© 2018-2023 <a href="https://www.lykns.tk" target="_blank"> LYKNS Corp.</a> all rights reserved.</div>
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

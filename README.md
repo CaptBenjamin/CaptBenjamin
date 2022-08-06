@@ -118,4 +118,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">© 2018-2023 <a href="https://www.lykns.tk" target="_blank"> LYKNS Corp.</a> all rights reserved.</div>

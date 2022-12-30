@@ -49,14 +49,42 @@
 
 ## Workspace Specs  
 <div align="center">
-<a href="https://github.com/CaptBenjamin/CaptBenjamin/edit/main/README.md#workspace-specs" target="_blank">
-<img src=https://img.shields.io/badge/intel-core_i9_10900kf-0071C5?style=for-the-badge&logo=intel&logoColor=white />
-</a><a href="https://github.com/CaptBenjamin/CaptBenjamin/edit/main/README.md#workspace-specs" target="_blank">
-<img src=https://img.shields.io/badge/windows-11-0078d4?style=for-the-badge&logo=microsoft&logoColor=white />
-</a><a href="https://github.com/CaptBenjamin/CaptBenjamin/edit/main/README.md#workspace-specs" target="_blank">
-<img src=https://img.shields.io/badge/nvidia-rtx_2080_super-76B900?style=for-the-badge&logo=nvidia&logoColor=white />
-
-</div> 
+  <a href="https://www.intel.cn/content/www/us/en/products/sku/199331/intel-core-i910900kf-processor-20m-cache-up-to-5-30-ghz/specifications.html" target="_blank">
+    <img src=https://img.shields.io/badge/intel-Core_i9_10900KF-0071C5?style=for-the-badge&logo=intel&logoColor=white />
+  </a>
+  <a href="https://www.microsoft.com/en-us/windows/business/windows-11-pro-workstations" target="_blank">
+    <img src=https://img.shields.io/badge/windows-11_Pro_for_Workstaions-0078d4?style=for-the-badge&logo=microsoft&logoColor=white />
+  </a>
+  <a href="https://www.nvidia.cn/geforce/graphics-cards/rtx-2080-super/" target="_blank">
+    <img src=https://img.shields.io/badge/nvidia-rtx_2080_super-76B900?style=for-the-badge&logo=nvidia&logoColor=white />
+  </a>
+  <a target="_blank">
+    <img src=https://img.shields.io/badge/RAM-64GB_DDR4-ED1C24?style=for-the-badge />
+  </a>
+  <br>
+  <a href="https://www.intel.cn/content/www/us/en/products/sku/195436/intel-core-i510210u-processor-6m-cache-up-to-4-20-ghz/specifications.html" target="_blank">
+    <img src=https://img.shields.io/badge/intel-Core_i5_10210U-0071C5?style=for-the-badge&logo=intel&logoColor=white />
+  </a>
+  <a target="_blank">
+    <img src=https://img.shields.io/badge/windows-10_Enterprise-0078d4?style=for-the-badge&logo=microsoft&logoColor=white />
+  </a>
+  <a target="_blank">
+    <img src=https://img.shields.io/badge/RAM-8GB_DDR4-ED1C24?style=for-the-badge />
+  </a>
+  <br>
+  <a href="https://www.intel.cn/content/www/us/en/products/sku/38512/intel-core2-quad-processor-q8400-4m-cache-2-66-ghz-1333-mhz-fsb/specifications.html" target="_blank">
+    <img src=https://img.shields.io/badge/intel-Core2_Q8400-0071C5?style=for-the-badge&logo=intel&logoColor=white />
+  </a>
+  <a href="https://www.microsoft.com/en-us/windowsforbusiness/windows-10-pro" target="_blank">
+    <img src=https://img.shields.io/badge/windows-10_Pro-0078d4?style=for-the-badge&logo=microsoft&logoColor=white />
+  </a>
+  <a target="_blank">
+    <img src=https://img.shields.io/badge/nvidia-gt_640-76B900?style=for-the-badge&logo=nvidia&logoColor=white />
+  </a>
+  <a target="_blank">
+    <img src=https://img.shields.io/badge/RAM-6GB_DDR3-ED1C24?style=for-the-badge />
+  </a>
+</div>
 
 <br/>  
 

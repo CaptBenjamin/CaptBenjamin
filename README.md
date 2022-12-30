@@ -23,7 +23,7 @@
 - 💬 Ask me about everything  
   
 
-- 📫 How to reach me: eow.lykns.tk/connect  
+- 📫 How to reach me: [联系管理组 - LYKNS](https://eow.lykns.tk/connect)(zh-cn)
   
 
 <br/>  

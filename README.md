@@ -153,7 +153,7 @@
 <a href="https://instagram.com/CaptBenjaminLee" target="_blank">
 <img src=https://img.shields.io/badge/instagram-CaptB-FEC000?style=for-the-badge&logo=instagram&logoColor=white />
 </a>  
-<a href="https://steamcommunity.com/id/LYKNS/" target="_blank">
+<a href="https://steamcommunity.com/id/CaptBenjaminLee/" target="_blank">
 <img src=https://img.shields.io/badge/steam-CaptB-075A8E?style=for-the-badge&logo=steam&logoColor=white />
 </a> 
 <a href="https://www.epicgames.com/" target="_blank">

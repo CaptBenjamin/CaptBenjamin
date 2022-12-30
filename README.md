@@ -8,7 +8,7 @@
 
 
 ### Introduction  
-# **I'm Captain Benjamin Lee of Federation Starfleet🚀**  
+# **I'm Captain Benjamin Lee of UFPFNA & LYKNS🚀**  
   
 
 - 🔭 I’m currently working on lykns.tk & CTK6  
@@ -23,26 +23,19 @@
 - 💬 Ask me about everything  
   
 
-- 📫 How to reach me: www.lykns.tk/connect  
+- 📫 How to reach me: eow.lykns.tk/connect  
   
 
 <br/>  
 
-<table><tr><td valign="top" width="33%">
-
-<div align="center">
-<img src="https://i.postimg.cc/5yNhBjZd/0.png" align="center" style="width: 100%" />
-</div>  
-
-
-</td><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 <div align="center">
 <img src="https://i.postimg.cc/HsJyzz0n/LYKNSCorp-logo.png" align="center" style="width: 100%" />
 </div>  
 
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 <div align="center">
 <img src="https://i.postimg.cc/cCz8ZtWd/LYKNSAdmin-logo.png" align="center" style="width: 100%" />
